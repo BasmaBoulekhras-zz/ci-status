@@ -1,9 +1,9 @@
 const GitHubApi = require('github')
 
 const config = {
-  ciUser: "githubUser", // document your CI user here
-  ciAccessToken: "personalAccessToken", // document which token you're using
-  repoOwner: "beatport"
+  ciUser: "BasmaBoulekhras", // document your CI user here
+  ciAccessToken: "cee26614761a064f406d3b644d1a14321c9ebbd0", // document which token you're using
+  repoOwner: "BasmaBoulekhras"
 }
 
 // Can be one of error, failure, pending, or success.
